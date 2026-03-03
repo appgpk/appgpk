@@ -46,4 +46,4 @@ Welcome to my [portfolio](https://github.com/appgpk/Porfolio ), where I showcase
 ## 🌐 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carmel-zagr%C3%A9/)
-- 🚀 [Upwork](https://www.upwork.com/freelancers/~01739a84dfe751fbf1)
+- 🚀 Hire me on [Upwork](https://www.upwork.com/freelancers/~01739a84dfe751fbf1)
