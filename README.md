@@ -17,49 +17,33 @@ In industry terms, I work on:
 
 Another hat I wear is **business owner**. I run a small business that sells shoes and accessories at affordable prices in **Burkina Faso**. As a small business owner, I manage tasks such as inventory and restocking, product pricing, promotion and marketing, and overall business operations.
 
-Through this experience, I have developed a strong interest in improving **data availability and digital tools in African markets**. One approach I explore is **digitalization**, which I am currently implementing in my own business. Working at this intersection has allowed me to identify real-world frictions in data collection and management and to think critically about solutions that bridge traditional practices and digital technologies.
+Through this experience, I have developed a strong interest in improving **data availability and digital tools in African markets**. One approach I explore is **digitalization**, which I am currently implementing in my own business using tools such as **Shopify to manage sales, inventory, and customer data**.
+
+Working at this intersection has allowed me to identify real-world frictions in data collection and management and to think critically about solutions that bridge traditional practices and digital technologies.
 
 ---
 
-## 📊 Skills
-
-- SQL
-- Python (Pandas, Matplotlib)
-- Data Visualization (Tableau)
-- Statistical Analysis
-- Econometrics
-- Causal Inference
-
----
-
-## 🛠 Tools
+## 🛠 Tools I Use
 
 - Python
+- Julia
 - SQL
 - Tableau
 - Stata
-- Power BI
+- Excel / Google Sheets
 - Git / GitHub
+- HTLM/CSS
 
 ---
 
 ## 📂 Projects
 
-Welcome to my portfolio where I showcase my projects.
+Welcome to my [portfolio](https://github.com/appgpk/Porfolio ), where I showcase my projects !
 
-### 📈 Epiphanie Boutique Sales Analysis
-Analyzed e-commerce sales data to identify best-selling products and customer behavior.
-
-### 🛡 Terrorism & Political Preferences
-Analyzed the impact of terrorism exposure on democratic attitudes using ACLED and Afrobarometer data.
-
-### 🧪 A/B Testing – Product Page Conversion
-Evaluated the impact of a new product page design on conversion rates.
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn:  
-Portfolio:  
-Email:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carmel-zagr%C3%A9/)
+- 🚀 [Upwork](https://www.upwork.com/freelancers/~01739a84dfe751fbf1)
