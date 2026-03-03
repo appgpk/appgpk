@@ -1,4 +1,4 @@
-# 👋 Introducing Myself
+# Who am I ?
 
 Hello! I'm **Marie Carmel**, a PhD student in Economics.
 
